@@ -19,7 +19,7 @@ Product Builder is a web application built with **React** and **TypeScript** tha
 ## Tech Stack
 - **React**
 - **TypeScript**
-- **CSS**
+- **Tailwind CSS**
 
 ## Installation
 1. Clone the repository:
